@@ -1,7 +1,9 @@
 MiniTodo
 ===
 
-Standalone TODO app in 155 chars of vanilla JS
+Standalone TODO app in 151 chars of vanilla JS
+
+Golfed with @benjaminjs
 
 ```
 <script>document.write(`<input id=i><a${o=" onclick="}'u.${H="innerHTML"}+="<li${o}${H}=${H}.strike()>"+i.value'>+<a${o}u.${H}="">X</a><ol id=u>`)</script>
